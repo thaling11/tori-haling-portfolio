@@ -1,0 +1,22 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+/* Header */
+nav a {
+    color: var(--title-text);
+    text-decoration: none;
+    font-size: 25px;
+    display: flex;
+    margin: 25px;
+    text-align: center;
+    top: 50%;
+  }
+
+  nav {
+    display: flex;
+    justify-content: flex-end;
+    height: fit-content;
+    margin: -9px;
+  }
