@@ -1,6 +1,7 @@
 body {
     background-color: black;
     color: white;
+    font-family: 'Quattrocento', serif;
 }
 
 /* Header */
@@ -19,4 +20,9 @@ nav a {
     justify-content: flex-end;
     height: fit-content;
     margin: -9px;
+  }
+
+  h1 {
+      margin-left: 50px;
+      font-size: 40px;
   }
